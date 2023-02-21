@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59a30a1e-db68-46f1-b922-0dae50d1938b" name="Changes" comment="Practices For JDBC">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homework/questions/Question_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homework/questions/Question_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homework/questions/Question_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/DB.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/sqlHomework/runner/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/sqlHomework/runner/utils/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/sqlHomework/runner/utils/DBUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/sqlHomework/runner/utils/DBUtils2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/homework/ConnectionOfDvdrental.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/homework/ConnectionOfDvdrental.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/homework/ConnectionOfExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/homework/ConnectionOfExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/homework/Question_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/homework/questions/Question_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/homework/Question_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/homework/questions/Question_2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Luc2zJw6RXO3IhiJEJLcYekoAw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/alioz/Desktop/workspace/InarAcademy/InarAcademyCucumberFramework",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59a30a1e-db68-46f1-b922-0dae50d1938b" name="Changes" comment="" />
+      <created>1676724207075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676724207075</updated>
+      <workItem from="1676724208538" duration="494000" />
+      <workItem from="1676738400077" duration="4481000" />
+      <workItem from="1676804516117" duration="463000" />
+      <workItem from="1676804993958" duration="34000" />
+      <workItem from="1676894012155" duration="8286000" />
+      <workItem from="1676989076658" duration="2259000" />
+      <workItem from="1676993265792" duration="5582000" />
+    </task>
+    <task id="LOCAL-00001" summary="Practices For JDBC">
+      <created>1676989162079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676989162079</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Practices For JDBC">
+      <created>1676989170443</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676989170443</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Practices For JDBC">
+      <created>1676989181608</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676989181608</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Practices For JDBC">
+      <created>1676989195274</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676989195274</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Practices For JDBC">
+      <created>1676989209175</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676989209175</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practices For JDBC" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practices For JDBC" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/homework/questions/Question_2.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

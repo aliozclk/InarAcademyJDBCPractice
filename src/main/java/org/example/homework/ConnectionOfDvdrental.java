@@ -8,7 +8,7 @@ public class ConnectionOfDvdrental {
 
     static String dbURL = "jdbc:postgresql://localhost:5432/dvdrental";
     static String username = "postgres";
-    static String password = "ali.1996";
+    static String password = "password";
     static Connection connection  ;
     static Statement statement ;
 

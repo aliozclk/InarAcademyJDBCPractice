@@ -1,4 +1,4 @@
-package org.example.homework;
+package org.example.homework.questions;
 
 import java.sql.*;
 
@@ -10,7 +10,7 @@ public class Question_1{
         // 1- GET a connection DB
         String dbURL = "jdbc:postgresql://localhost:5432/dvdrental";
         String username="postgres";
-        String password = "ali.1996";
+        String password = "password";
         Connection connection = DriverManager.getConnection(dbURL,username,password);
         //2- Create a statement object
         Statement statement = connection.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE,ResultSet.CONCUR_READ_ONLY);

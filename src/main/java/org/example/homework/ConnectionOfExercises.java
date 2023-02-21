@@ -8,7 +8,7 @@ import java.sql.*;
 public class ConnectionOfExercises {
     String dbURL = "jdbc:postgresql://localhost:5432/exercises";
     String username="postgres";
-    String password = "ali.1996";
+    String password = "password";
 
     Connection connection;
     Statement statement;
